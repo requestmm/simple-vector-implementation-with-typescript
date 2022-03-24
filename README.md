@@ -1,4 +1,4 @@
-# Vector implemented using TypeScript
+# Vector with TypeScript - Basic implementation
 
 Simple implementation of Vector for Classical Mechanics applications using TypeScript as programming language and NodeJS as host-environment.
 
